@@ -15,7 +15,7 @@ This project features a Digital siganture software which signs and verify docume
 * RSA Scheme
 * Client and Authorithy usage.
 * Generation of self signed certtifciations.
-* [Full repository](https://github.com/davegmn/Proyecto-Cripto.git)
+* [Full repository project](https://github.com/davegmn/Proyecto-Cripto.git)
 
 ![Digital Siganture app](/assets/img/Cripto.png)
 
