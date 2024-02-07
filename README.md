@@ -26,4 +26,12 @@ This project I developed a brief study about how can stochastic statistics to pr
 
 ![Banorte data stocks](/assets/img/Vol1.png)
 
+### Diabetes with PCA
+Analysis with principal component methods is what is done in this project that does a brief study of different components of this condition. 
+* Typical diabetic conditions
+* PCA, the main technique to determine some determinant conditions. 
+* Bayesian Network to predict the diagnostic.
+
+![]
+
 
