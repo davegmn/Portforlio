@@ -34,6 +34,14 @@ Analysis with principal component methods is what is done in this project that d
 
 ![Matrix Diabetes](/assets/img/Correlaciones.png)
 
+### Encryption App
+An encryption app devloped for Android users and programmed in Kotlin. 
+* AES scheme.
+* Encrypts images and files.
+* Decrypted function also implemented.
+  
+![App](/assets/img/Mobileapp.png)
+
 
 
 
