@@ -10,11 +10,12 @@ I'm David and welcome to my projects. This is a compilation of what I've done in
 
 ## Projects
 
-### Digital Signature App
+### Digital Signature App 
 This project features a Digital siganture software which signs and verify documents encrypted in RSA, project developed in collaboration with Prepa Net. 
 * RSA Scheme
 * Client and Authorithy usage.
 * Generation of self signed certtifciations.
+* [Full repository](https://github.com/davegmn/Proyecto-Cripto.git)
 
 ![Digital Siganture app](/assets/img/Cripto.png)
 
@@ -23,6 +24,7 @@ This project I developed a brief study about how can stochastic statistics to pr
 * Banorte Data.
 * Montecarlo Simulation for prediction of yields of the bank for data of 2019. 
 * Black-Scholes for the simulation of prices of financial options.
+* [Full repository project](https://github.com/davegmn/Project-Estimation-of-a-financial-option.git)
 
 ![Banorte data stocks](/assets/img/Vol1.png)
 
@@ -31,6 +33,7 @@ Analysis with principal component methods is what is done in this project that d
 * Typical diabetic conditions
 * PCA, the main technique to determine some determinant conditions. 
 * Bayesian Network to predict the diagnostic.
+* [Full repository project](https://github.com/davegmn/Project-Diabetes_PCA.git)
 
 ![Matrix Diabetes](/assets/img/Correlaciones.png)
 
@@ -47,6 +50,7 @@ A brief study of Hepaptits signs and symptoms to predict the real diagnosis of a
 * Hepatitis usual conditions
 * Algorithms used: KMEANS, DBSCAN, Bayesian Network, Cluster.
 * Models used to predict the diagnostic.
+* [Full repository project](https://github.com/davegmn/Project-Hepatitis-with-non-supervising-learning.git)
 
 ![Chart](/assets/img/project3.png)
 
