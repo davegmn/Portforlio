@@ -14,4 +14,4 @@ This project I developed a brief study about how can stochastic statistics to pr
 * Montecarlo Simulation for prediction of yields of the bank for data of 2019. 
 * Black-Scholes for the simulation of prices of financial options.
 
-![Banorte data stocks]()
+![Banorte data stocks](/assets/img/Vol1.png)
