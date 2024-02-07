@@ -6,7 +6,7 @@ I'm David and welcome to my projects. This is a compilation of what I've done in
 
 - **Email** [davidagonzalez350@gmail.com](davidagonzalez350@gmail.com)
 - **Linkedin** [linkedin.com/david-gonzalez](www.linkedin.com/in/david-gonzalez-muñoz-034445248)
-- ***Github** [Github repository](https://github.com/davegmn)
+- **Github** [Github repository](https://github.com/davegmn)
 
 ## Projects
 
@@ -42,6 +42,7 @@ An encryption app devloped for Android users and programmed in Kotlin.
 * AES scheme.
 * Encrypts images and files.
 * Decrypted function also implemented.
+* [Full repository project](https://github.com/davegmn/SecurityOn.git)
   
 ![App](/assets/img/Mobileapp.png)
 
