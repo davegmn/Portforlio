@@ -50,5 +50,9 @@ A brief study of Hepaptits signs and symptoms to predict the real diagnosis of a
 
 ![Chart](/assets/img/project3.png)
 
+# About me
+You may want to read all my profile.
+![](/assets/img/CV.png)
+
 
 
