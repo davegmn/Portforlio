@@ -42,6 +42,12 @@ An encryption app devloped for Android users and programmed in Kotlin.
   
 ![App](/assets/img/Mobileapp.png)
 
+### Hepatitis with non supervising learning
+A brief study of Hepaptits signs and symptoms to predict the real diagnosis of a patient. 
+* Hepatitis usual conditions
+* Algorithms used: KMEANS, DBSCAN, Bayesian Network, Cluster.
+* Models used to predict the diagnostic.
+
 
 
 
