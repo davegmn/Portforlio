@@ -32,6 +32,8 @@ Analysis with principal component methods is what is done in this project that d
 * PCA, the main technique to determine some determinant conditions. 
 * Bayesian Network to predict the diagnostic.
 
-![]
+![Matrix Diabetes](/assets/img/Correlaciones.png)
+
+
 
 
