@@ -1,5 +1,4 @@
 # Portforlio
-davegm.github.io/portfolio
 
 # Hello world ;)
 I'm David and welcome to my projects. This is a compilation of what I've done in data science projects and other personal stuff. 
