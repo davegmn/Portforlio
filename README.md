@@ -9,6 +9,13 @@ I'm David and welcome to my projects. This is a compilation of what I've done in
 
 ## Projects
 
+### Trade Evolution
+This website was created for the company Trade Evolution, the colours on it, represents what they are, as their images. One of the most important projects as I started my freelancer career.
+* HTML
+* CSS
+* JS
+
+
 ### Digital Signature App 
 This project features a Digital siganture software which signs and verify documents encrypted in RSA, project developed in collaboration with Prepa Net. 
 * RSA Scheme
